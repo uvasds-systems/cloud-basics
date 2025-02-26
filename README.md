@@ -2,6 +2,8 @@
 
 A primer for running data science workloads on cloud resources.
 
+[**Slide Deck**](DS6051-Cloud-Computing.pdf)
+
 ## AWS Service Catalog
 
 A UVA-managed catalog of prepackaged solutions and services. Provides self-service provisioning of cloud resources.
