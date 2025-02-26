@@ -102,4 +102,7 @@ To resize or re-type your instance, i.e. extend or reduce its CPU/MEM/GPU resour
 
 ## More information
 
-
+- [Data Science Essentials](https://www.youtube.com/playlist?list=PLxBq1F-c5mHq5r89REM7STJaq360VjuVo) (Youtube)
+- [AWS EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)
+- [AWS Training & Certification](https://aws.amazon.com/training/)
+- [Infrastructure as Code](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/infrastructure-as-code.html)
