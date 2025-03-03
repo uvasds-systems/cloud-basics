@@ -4,6 +4,8 @@ A primer for running data science workloads on cloud resources.
 
 > [**Slide Deck**](DS6051-Cloud-Computing.pdf) for DS6051.
 
+<a href="https://www.youtube.com/watch?v=uO59mhQU6QE" target="_new"><img src="https://i9.ytimg.com/vi_webp/uO59mhQU6QE/maxresdefault.webp?v=67c4fcbb&sqp=CLj5k74G&rs=AOn4CLAMlwCiAyH2CfI9Zmv2TxK1IVrHQw" /></a>
+
 ## AWS Service Catalog
 
 A UVA-managed catalog of prepackaged solutions and services. Provides self-service provisioning of cloud resources.
@@ -11,8 +13,6 @@ A UVA-managed catalog of prepackaged solutions and services. Provides self-servi
 Sign in here using your UVA credentials:
 
 > **https://eservices-uva.awsapps.com/start/#/?tab=accounts**
-
-<a href="https://www.youtube.com/watch?v=uO59mhQU6QE" target="_new"><img src="https://i9.ytimg.com/vi_webp/uO59mhQU6QE/maxresdefault.webp?v=67c4fcbb&sqp=CLj5k74G&rs=AOn4CLAMlwCiAyH2CfI9Zmv2TxK1IVrHQw" /></a>
 
 ## SSH Keys and Access
 
