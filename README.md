@@ -4,6 +4,8 @@ A primer for running data science workloads on cloud resources.
 
 > [**Slide Deck**](DS6051-Cloud-Computing.pdf) for DS6051.
 
+Watch a walkthrough:
+
 <a href="https://www.youtube.com/watch?v=uO59mhQU6QE" target="_new"><img src="https://i9.ytimg.com/vi_webp/uO59mhQU6QE/maxresdefault.webp?v=67c4fcbb&sqp=CLj5k74G&rs=AOn4CLAMlwCiAyH2CfI9Zmv2TxK1IVrHQw" /></a>
 
 ## AWS Service Catalog
