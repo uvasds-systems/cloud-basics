@@ -34,7 +34,7 @@ Do not share your private key with anyone. Rotate keys at least 1x a year.
 
 Once your EC2 instance has been created (following the steps below) you will use your SSH keypair as a means of authentication. Cloud instances tend not to have system usernames/passwords, as SSH keys are more secure.
 
-To connect to your instance, you need to know (1) the default username to connect as, and (2) the public IP address of your new instance. Together with your private key you can establish a connection:
+To connect to your instance, you need to (1) have the private key associated with the instance; have (2) the default username to connect as, and (3) the public IP address of your new instance. Together with your private key you can establish a connection:
 
 ```
 ssh -i ~/.ssh/my_key ubuntu@12.34.56.78
