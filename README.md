@@ -12,6 +12,8 @@ Sign in here using your UVA credentials:
 
 > **https://eservices-uva.awsapps.com/start/#/?tab=accounts**
 
+<iframe src="https://www.youtube.com/embed/uO59mhQU6QE?si=oVXzkH2YSFaNOalB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## SSH Keys and Access
 
 ### Keys
